@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89dc39555c86376d787dac66e0093389",
+    "revision": "adc454ee90e8c83bcd857ce665f8cab4",
     "url": "/rentagram/index.html"
   },
   {
-    "revision": "109fc9bd26ea653f2ddc",
+    "revision": "9b73a0556ab7d541dff1",
     "url": "/rentagram/static/css/main.65f60944.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rentagram/static/js/2.1b6b7a8a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "109fc9bd26ea653f2ddc",
-    "url": "/rentagram/static/js/main.e44e4f17.chunk.js"
+    "revision": "9b73a0556ab7d541dff1",
+    "url": "/rentagram/static/js/main.61a709e9.chunk.js"
   },
   {
     "revision": "1fe6d3a9e5cb224f64f6",
