@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/rentagram/static/css/main.65f60944.chunk.css",
-    "main.js": "/rentagram/static/js/main.3038afc4.chunk.js",
-    "main.js.map": "/rentagram/static/js/main.3038afc4.chunk.js.map",
+    "main.js": "/rentagram/static/js/main.64290a5e.chunk.js",
+    "main.js.map": "/rentagram/static/js/main.64290a5e.chunk.js.map",
     "runtime-main.js": "/rentagram/static/js/runtime-main.a50b21ca.js",
     "runtime-main.js.map": "/rentagram/static/js/runtime-main.a50b21ca.js.map",
-    "static/js/2.3358fd65.chunk.js": "/rentagram/static/js/2.3358fd65.chunk.js",
-    "static/js/2.3358fd65.chunk.js.map": "/rentagram/static/js/2.3358fd65.chunk.js.map",
+    "static/js/2.1b6b7a8a.chunk.js": "/rentagram/static/js/2.1b6b7a8a.chunk.js",
+    "static/js/2.1b6b7a8a.chunk.js.map": "/rentagram/static/js/2.1b6b7a8a.chunk.js.map",
     "index.html": "/rentagram/index.html",
-    "precache-manifest.ff8f14044b5cbf730137348b4e501268.js": "/rentagram/precache-manifest.ff8f14044b5cbf730137348b4e501268.js",
+    "precache-manifest.f2c23b1b21ccc27c5e6bbedefad04714.js": "/rentagram/precache-manifest.f2c23b1b21ccc27c5e6bbedefad04714.js",
     "service-worker.js": "/rentagram/service-worker.js",
     "static/css/main.65f60944.chunk.css.map": "/rentagram/static/css/main.65f60944.chunk.css.map",
-    "static/js/2.3358fd65.chunk.js.LICENSE.txt": "/rentagram/static/js/2.3358fd65.chunk.js.LICENSE.txt",
+    "static/js/2.1b6b7a8a.chunk.js.LICENSE.txt": "/rentagram/static/js/2.1b6b7a8a.chunk.js.LICENSE.txt",
     "static/media/icon_time_end.svg": "/rentagram/static/media/icon_time_end.b2da6bc2.svg",
     "static/media/icon_time_start.svg": "/rentagram/static/media/icon_time_start.f455fbbe.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a50b21ca.js",
-    "static/js/2.3358fd65.chunk.js",
+    "static/js/2.1b6b7a8a.chunk.js",
     "static/css/main.65f60944.chunk.css",
-    "static/js/main.3038afc4.chunk.js"
+    "static/js/main.64290a5e.chunk.js"
   ]
 }
