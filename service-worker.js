@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rentagram/precache-manifest.e9a0ec1c4ae70a3ddb3bebc45210e347.js"
+  "/rentagram/precache-manifest.495887e77f58eca3ee607ea2a3ab5f9d.js"
 );
 
 self.addEventListener('message', (event) => {
