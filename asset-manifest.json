@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rentagram/static/css/main.65f60944.chunk.css",
-    "main.js": "/rentagram/static/js/main.213f4a24.chunk.js",
-    "main.js.map": "/rentagram/static/js/main.213f4a24.chunk.js.map",
+    "main.js": "/rentagram/static/js/main.5e56a604.chunk.js",
+    "main.js.map": "/rentagram/static/js/main.5e56a604.chunk.js.map",
     "runtime-main.js": "/rentagram/static/js/runtime-main.a50b21ca.js",
     "runtime-main.js.map": "/rentagram/static/js/runtime-main.a50b21ca.js.map",
     "static/js/2.6461493e.chunk.js": "/rentagram/static/js/2.6461493e.chunk.js",
     "static/js/2.6461493e.chunk.js.map": "/rentagram/static/js/2.6461493e.chunk.js.map",
     "index.html": "/rentagram/index.html",
-    "precache-manifest.9eb4bde6d276ff250cb1ae318f00778a.js": "/rentagram/precache-manifest.9eb4bde6d276ff250cb1ae318f00778a.js",
+    "precache-manifest.f67f6bd1590f13809448b6b8a1d06b5b.js": "/rentagram/precache-manifest.f67f6bd1590f13809448b6b8a1d06b5b.js",
     "service-worker.js": "/rentagram/service-worker.js",
     "static/css/main.65f60944.chunk.css.map": "/rentagram/static/css/main.65f60944.chunk.css.map",
     "static/js/2.6461493e.chunk.js.LICENSE.txt": "/rentagram/static/js/2.6461493e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a50b21ca.js",
     "static/js/2.6461493e.chunk.js",
     "static/css/main.65f60944.chunk.css",
-    "static/js/main.213f4a24.chunk.js"
+    "static/js/main.5e56a604.chunk.js"
   ]
 }
