@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/rentagram/static/css/main.65f60944.chunk.css",
-    "main.js": "/rentagram/static/js/main.0904937d.chunk.js",
-    "main.js.map": "/rentagram/static/js/main.0904937d.chunk.js.map",
+    "main.js": "/rentagram/static/js/main.ef4d0a75.chunk.js",
+    "main.js.map": "/rentagram/static/js/main.ef4d0a75.chunk.js.map",
     "runtime-main.js": "/rentagram/static/js/runtime-main.a50b21ca.js",
     "runtime-main.js.map": "/rentagram/static/js/runtime-main.a50b21ca.js.map",
-    "static/js/2.a334a0da.chunk.js": "/rentagram/static/js/2.a334a0da.chunk.js",
-    "static/js/2.a334a0da.chunk.js.map": "/rentagram/static/js/2.a334a0da.chunk.js.map",
+    "static/js/2.6461493e.chunk.js": "/rentagram/static/js/2.6461493e.chunk.js",
+    "static/js/2.6461493e.chunk.js.map": "/rentagram/static/js/2.6461493e.chunk.js.map",
     "index.html": "/rentagram/index.html",
-    "precache-manifest.baa0c2c71c5a64eef9d4b7695c2755cb.js": "/rentagram/precache-manifest.baa0c2c71c5a64eef9d4b7695c2755cb.js",
+    "precache-manifest.b69a2be760a0b321fcbe01e499a35953.js": "/rentagram/precache-manifest.b69a2be760a0b321fcbe01e499a35953.js",
     "service-worker.js": "/rentagram/service-worker.js",
     "static/css/main.65f60944.chunk.css.map": "/rentagram/static/css/main.65f60944.chunk.css.map",
-    "static/js/2.a334a0da.chunk.js.LICENSE.txt": "/rentagram/static/js/2.a334a0da.chunk.js.LICENSE.txt",
+    "static/js/2.6461493e.chunk.js.LICENSE.txt": "/rentagram/static/js/2.6461493e.chunk.js.LICENSE.txt",
     "static/media/icon_time_end.svg": "/rentagram/static/media/icon_time_end.b2da6bc2.svg",
     "static/media/icon_time_start.svg": "/rentagram/static/media/icon_time_start.f455fbbe.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a50b21ca.js",
-    "static/js/2.a334a0da.chunk.js",
+    "static/js/2.6461493e.chunk.js",
     "static/css/main.65f60944.chunk.css",
-    "static/js/main.0904937d.chunk.js"
+    "static/js/main.ef4d0a75.chunk.js"
   ]
 }
